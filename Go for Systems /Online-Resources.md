@@ -1,0 +1,3 @@
+- [Go by Example](https://gobyexample.com/)
+- [Go's official concurrency material](https://go.dev/tour/concurrency/11)
+- [The Go Blog](https://go.dev/blog/)
