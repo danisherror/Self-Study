@@ -1,0 +1,2 @@
+- [Jupiter Rising: A Decade of Clos Topologies andCentralized Control in Google’s Datacenter Network](https://dl.acm.org/doi/epdf/10.1145/2829988.2787508)
+- [Jupiter Rising: A Decade of Clos Topologies andCentralized Control in Google’s Datacenter Network](https://conferences.sigcomm.org/sigcomm/2015/pdf/papers/p183.pdf)
