@@ -1,0 +1,1 @@
+- [A Scalable, Commodity Data Center Network Architecture (Al-Fares et al., 2008)](https://web.stanford.edu/class/cs244/papers/al-fares-sigcomm08.pdf)
