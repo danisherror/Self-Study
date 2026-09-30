@@ -1,0 +1,1 @@
+- [S. Keshav's short guide How to Read a Paper (three-pass method)](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
