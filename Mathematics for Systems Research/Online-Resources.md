@@ -1,0 +1,6 @@
+- [MIT 6.041 (fall 2010)](https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/)
+- [MIT 6.041 (fall 2013)](https://ocw.mit.edu/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
+- [Gilbert Strang's MIT 18.06](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
+- [Gilbert Strang's MIT 18.06](https://web.mit.edu/18.06/www/)
+- [Performance Modeling and Design of Computer Systems](https://mecsenotes.weebly.com/uploads/4/7/6/5/47654023/1107027500.pdf)
+- [Performance Modeling and Design of Computer Systems](https://www.cs.cmu.edu/~harchol/PerformanceModeling/book.html)
