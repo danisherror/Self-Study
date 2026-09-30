@@ -1,0 +1,1 @@
+- [VL2: A Scalable and Flexible Data Center Network](https://dl.acm.org/doi/epdf/10.1145/1592568.1592576)
