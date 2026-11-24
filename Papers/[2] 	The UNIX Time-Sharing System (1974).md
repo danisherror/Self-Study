@@ -1,2 +1,3 @@
 - [	The UNIX Time-Sharing System (1974)](https://dsf.berkeley.edu/cs262/unix.pdf) - Paper
 - [The UNIX Time-Sharing System (1974)](https://sparsenotes.com/posts/2026/08/papers/unix-time-sharing-system/) - Article
+- [How to read this paper](https://gist.github.com/danisherror/48f637be36cd4fafc7baa3d1a0a9ed6c)
